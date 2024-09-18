@@ -1,0 +1,14 @@
+R:\soukrome\c#\4SwapMinMax\4SwapMinMax\bin\Debug\net8.0\4SwapMinMax.exe
+R:\soukrome\c#\4SwapMinMax\4SwapMinMax\bin\Debug\net8.0\4SwapMinMax.deps.json
+R:\soukrome\c#\4SwapMinMax\4SwapMinMax\bin\Debug\net8.0\4SwapMinMax.runtimeconfig.json
+R:\soukrome\c#\4SwapMinMax\4SwapMinMax\bin\Debug\net8.0\4SwapMinMax.dll
+R:\soukrome\c#\4SwapMinMax\4SwapMinMax\bin\Debug\net8.0\4SwapMinMax.pdb
+R:\soukrome\c#\4SwapMinMax\4SwapMinMax\obj\Debug\net8.0\4SwapMinMax.GeneratedMSBuildEditorConfig.editorconfig
+R:\soukrome\c#\4SwapMinMax\4SwapMinMax\obj\Debug\net8.0\4SwapMinMax.AssemblyInfoInputs.cache
+R:\soukrome\c#\4SwapMinMax\4SwapMinMax\obj\Debug\net8.0\4SwapMinMax.AssemblyInfo.cs
+R:\soukrome\c#\4SwapMinMax\4SwapMinMax\obj\Debug\net8.0\4SwapMinMax.csproj.CoreCompileInputs.cache
+R:\soukrome\c#\4SwapMinMax\4SwapMinMax\obj\Debug\net8.0\4SwapMinMax.dll
+R:\soukrome\c#\4SwapMinMax\4SwapMinMax\obj\Debug\net8.0\refint\4SwapMinMax.dll
+R:\soukrome\c#\4SwapMinMax\4SwapMinMax\obj\Debug\net8.0\4SwapMinMax.pdb
+R:\soukrome\c#\4SwapMinMax\4SwapMinMax\obj\Debug\net8.0\4SwapMinMax.genruntimeconfig.cache
+R:\soukrome\c#\4SwapMinMax\4SwapMinMax\obj\Debug\net8.0\ref\4SwapMinMax.dll
